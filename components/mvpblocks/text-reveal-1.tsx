@@ -19,7 +19,7 @@ export default function TextRevealLetters() {
             geist.className
           )}
         >
-          Lễ tốt nghiệp MBA 2024
+          TIỆC TRI ÂN VÀ CHÚC MỪNG HOÀN THÀNH ĐỀ ÁN THẠC SĨ
         </span>
         <div className="h-px w-24 bg-linear-to-r from-amber-400 via-amber-500 to-amber-400" />
         <TextReveal
@@ -30,12 +30,10 @@ export default function TextRevealLetters() {
           from="bottom"
           split="word"
         >
-          Chào mừng Quý Thầy Cô, Anh Chị, các Bạn đến với Tiệc tri ân và Chúc
-          mừng hoàn thành đề án thạc sĩ
+          Chào mừng Quý Thầy Cô, Anh Chị và Các bạn
         </TextReveal>
         <p className="max-w-2xl text-base leading-relaxed text-slate-600 sm:text-lg">
-          Cùng nhìn lại hành trình học tập và tri ân những người đã đồng hành
-          trên con đường tri thức.
+          Điểm lại hành trình tri thức - Nơi mỗi nỗ lực đều để lại dấu ấn
         </p>
       </div>
     </section>

@@ -115,7 +115,7 @@ const StickyCard002 = ({
           {cards.map((card, i) => (
             <img
               key={card.id}
-              src={card.image}
+              src={encodeURIComponent(card.image)}
               alt={card.alt || ""}
               className={cn(
                 "rounded-4xl absolute h-full w-full object-cover",
